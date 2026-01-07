@@ -75,6 +75,23 @@ mininet> pingall
 mininet> iperf h1 h2
 ```
 
+## Screenshots
+
+### Custom Topology Start
+![Custom Topology Start](screenshots/custom_topology_start.png)
+
+### Ryu Controller Running
+![Ryu Controller Running](screenshots/ryu_running.png)
+
+### Ping All Test
+![Ping All Test](screenshots/pingall.png)
+
+### Host to Host Ping
+![Host to Host Ping](screenshots/h1pingh2.png)
+
+### Iperf Bandwidth Test
+![Iperf Bandwidth Test](screenshots/iperf_test.png)
+
 ## Contributing
 
 Feel free to contribute by adding new topologies, switch implementations, or examples.
